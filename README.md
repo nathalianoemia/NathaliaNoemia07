@@ -1,12 +1,12 @@
 ### Hi there 👋🐱
 Oi🤗 Me chamo Nathália, sou estudante de Ciência da Computação na Universidade do Estado do Rio Grande do Norte (UERN). 
 
-- ☕ Atualmente estou estudando Python, R, PowerBI e Tableau.
+- ☕ Atualmente estou estudando análise de dados utilizando Python, R, PowerBI e Tableau.
  
 
 Hi🤗 My name is Nathália, I am a student of Computer Science at UERN.
 
-- ☕ I am currently studying Python, R, PowerBI and Tableau.
+- ☕ I am currently studying data analysis using Python, R, PowerBI and Tableau.
 
 <div>
   <a href="https://github.com/NathaliaNoemia07">
