@@ -9,6 +9,7 @@ Hi🤗 My name is Nathália, I am a student of Computer Science at UERN.
 
 - ☕ I am currently studying data analysis using Python, R and PowerBI.
 
+- ☕ I am interested in Requirements Analysis. Tools I've used: EdrawMax and LucidChart.
 <div>
   <a href="https://github.com/NathaliaNoemia07">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NathaliaNoemia07&show_icons=true&theme=material-palenight&include_all_commits=true&count_private=true"/>
