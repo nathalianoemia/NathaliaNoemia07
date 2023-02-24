@@ -2,7 +2,8 @@
 Oi🤗 Me chamo Nathália, sou estudante de Ciência da Computação na Universidade do Estado do Rio Grande do Norte (UERN). 
 
 - ☕ Atualmente estou estudando análise de dados utilizando Python, R e PowerBI.
- 
+
+- ☕ Possuo interesse em Análise de Requisitos. Ferramentas que já utilizei: EdrawMax e LucidChart. 
 
 Hi🤗 My name is Nathália, I am a student of Computer Science at UERN.
 
